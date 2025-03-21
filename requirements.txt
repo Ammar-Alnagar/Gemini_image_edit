@@ -1,0 +1,3 @@
+google-genai==1.5.0
+gradio
+pydantic==2.10.6
