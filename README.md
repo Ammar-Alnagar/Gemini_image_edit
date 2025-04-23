@@ -14,6 +14,7 @@ This Gradio application leverages the Gemini API to perform image editing tasks 
 *   **Image Format:** Input limited to PNG images only.
 
 
+
 ## Get an API Key
 
 [https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)
